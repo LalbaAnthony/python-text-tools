@@ -1,3 +1,0 @@
-- [X] Dédoubloneur de lignes
-- [X] Trie de ligne par ordre alphabétique
-- [ ] Rempacement de texte avec dictionnaire
